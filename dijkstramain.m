@@ -1,4 +1,6 @@
 
+% Akash Shahade
+
 % Initialize the maps, color maps, start points and destination points
 input_map = false(10);              % Create an Input Map
 input_map (3:9, 5:7) = 1;           % Add an obstacle
